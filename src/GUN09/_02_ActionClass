@@ -1,0 +1,10 @@
+interview sorunlarında Action Class
+Action Class nerelerde kullanılır, neler yapılabilir?
+
+-normal click harici, doubleClick ,rightClick ,HoverOver,
+Özel tuşlar(ctrl,shift,yön tuşları) etkilerini kullanmak için kullanılan
+sınıfın adıdır.
+
+-Nasıl kullanırsın?
+Actions aksiyonlar=new Actions(driver); --> driver üzerrinden aksiyonları kullanacağız
+Aksiyonlar :doubleClick ,rightClick ,HoverOver,ctrl,shift,yön tuşları
